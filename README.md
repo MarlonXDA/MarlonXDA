@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonXDA)](https://github.com/MarlonXDA/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonXDA&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonXDA&show_icons=true&theme=tokyonight)
 
 
 
