@@ -1,8 +1,13 @@
 ## Hello! Marlon here! 👋
 
+🔭 I’m currently working on my ultimate system!
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonXDA&show_icons=true&theme=tokyonight)
 
-🔭 I’m currently working on my ultimate system!
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
 
 <!--
 - 🔭 I’m currently working on ...
