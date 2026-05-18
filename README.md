@@ -2,10 +2,6 @@
 
 🔭 I’m currently working on my ultimate system!
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlonXDA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonXDA&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ## Ferramentas e Tecnologias
 <div style="display: inline_block"><br>
